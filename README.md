@@ -3,7 +3,7 @@
 
 **Studying at**  
 [![Hanyang University](https://img.shields.io/badge/Hanyang%20University-004098?style=flat-square&logoColor=white)](https://www.hanyang.ac.kr/web/eng)
-[![Automotive Engineering](https://img.shields.io/badge/Automotive%20Engineering-004098?style=flat-square&logoColor=white)](https://ae.hanyang.ac.kr/en/about)
+[![Automotive Engineering](https://img.shields.io/badge/Automotive%20Engineering-004098?style=flat-square&logoColor=white)]([https://ae.hanyang.ac.kr/en/about](https://ae.hanyang.ac.kr/en/%ED%99%88))
 
 ### 🧑‍💻 Career
 
