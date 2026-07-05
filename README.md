@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**Choihyunseok1/Choihyunseok1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Biography
 
-Here are some ideas to get you started:
+* Graduated from Namhae Haeseong High School
+* B.S. Candidate, Department of Future Automotive Engineering, Hanyang University (current)
+* Undergraduate Researcher, IRCV (current)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+* Autonomous Driving Perception
+* RAW-domain Object Detection
+* Camera ISP
+* Dataset Construction and Benchmark Evaluation
+
+
+## Contact
+
+* Email: [hyun15946@hanyang.ac.kr](mailto:hyun15946@hanyang.ac.kr)
+
