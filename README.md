@@ -2,8 +2,6 @@
 
 ---
 
-### 👋 Hi all, I'm Hyunseok
-
 **Studying at**  
 ![Hanyang University](https://img.shields.io/badge/Hanyang%20University-004098?style=flat-square&logoColor=white)
 
