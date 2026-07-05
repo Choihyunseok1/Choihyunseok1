@@ -2,7 +2,7 @@
 
 **Studying at**  
 [![Hanyang University](https://img.shields.io/badge/Hanyang%20University-004098?style=flat-square&logoColor=white)](https://www.hanyang.ac.kr/web/eng)
-[![Automotive Engineering](https://img.shields.io/badge/Automotive%20Engineering-004098?style=flat-square&logoColor=white)](https://ae.hanyang.ac.kr/en/about)
+[![Automotive Engineering](https://img.shields.io/badge/Automotive%20Engineering-004098?style=flat-square&logoColor=white)](https://ae.hanyang.ac.kr/en/)
 
 ### 🛠️ Tech Stacks
 
@@ -44,7 +44,7 @@
 
 | Period | Position | Affiliation |
 |---|---|---|
-| 2021.03 - Present | B.S. Candidate | [Department of Automotive Engineering](https://ae.hanyang.ac.kr/en/about), [Hanyang University](https://www.hanyang.ac.kr/web/eng) |
+| 2021.03 - Present | B.S. Candidate | [Department of Automotive Engineering](https://ae.hanyang.ac.kr/en/), [Hanyang University](https://www.hanyang.ac.kr/web/eng) |
 | 2026.01 - Present | Undergraduate Researcher | [IRCV](https://ircv.hanyang.ac.kr/) |
 
 ## Project
