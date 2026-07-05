@@ -44,7 +44,6 @@
 
 | Period | Position | Affiliation |
 |---|---|---|
-| - | Graduated | [Namhae Haeseong High School](https://nhaesung-h.gne.go.kr/) |
 | 2021.03 - Present | B.S. Candidate | [Department of Automotive Engineering](https://ae.hanyang.ac.kr/en/about), [Hanyang University](https://www.hanyang.ac.kr/web/eng) |
 | 2026.01 - Present | Undergraduate Researcher | [IRCV](https://ircv.hanyang.ac.kr/) |
 
