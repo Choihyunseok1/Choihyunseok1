@@ -31,7 +31,6 @@
 
 - Autonomous Driving Perception
 - RAW-domain Object Detection
-- Low-light Vision
 - Camera ISP
 - Dataset Construction and Benchmark Evaluation
 
