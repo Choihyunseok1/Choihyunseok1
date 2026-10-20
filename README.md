@@ -31,6 +31,7 @@
 - Autonomous Driving Perception
 - RAW-domain Object Detection
 - Camera ISP
+- HD map pseudo-labeling
 - Dataset Construction and Benchmark Evaluation
 
 ### 📫 Contact me
