@@ -68,7 +68,6 @@ Selected team projects from my automotive engineering coursework.
 |---|---|---|
 | 2026.10 | [RAW Rig](https://github.com/Choihyunseok1/RAW-Rig) | Developed a Python/Qt tool for Bayer RAW capture and sensor-noise calibration, with Spinnaker camera control and PTP capture scheduling. |
 | 2026.10 | [Sticky Notes: Alt+Tab Group](https://github.com/ramensoftware/windhawk-mods/pull/6277) | AI-assisted contribution with ChatGPT: a C++/Windhawk mod that groups Sticky Notes windows in Alt+Tab. Merged upstream on October 17, 2026. |
-| 2026.07 | [ROS2 FLIR Surround View](https://github.com/Choihyunseok1/ros2-flir-surround-view) | Developed a planar-homography BEV surround-view prototype for multiple FLIR cameras, with a calibration UI and guidebook. Python, ROS2 and OpenCV. |
 | 2026.06 | [VS Code RAW Image Preview](https://github.com/Choihyunseok1/vscode-raw-image-preview) | Developed a VS Code editor for RAW/Bayer/NumPy image inspection, channel views and exposure controls. JavaScript, VS Code API and Python. |
 | 2026.06 | [Local Whisper Desktop](https://github.com/Choihyunseok1/local-whisper-desktop) | Developed a local transcription GUI with long-file chunking and subtitle export. Python, PySide6, faster-whisper and ffmpeg. |
 
