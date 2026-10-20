@@ -13,9 +13,6 @@
 
 **Robotics & AI**  
 [![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)](https://docs.ros.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![MMDetection](https://img.shields.io/badge/MMDetection-00599C?style=flat-square&logoColor=white)](https://github.com/open-mmlab/mmdetection)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
 
 **Engineering Tools**  
 [![CATIA](https://img.shields.io/badge/CATIA-005386?style=flat-square&logoColor=white)](https://www.3ds.com/products/catia)
