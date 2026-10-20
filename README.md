@@ -47,9 +47,32 @@
 
 ## Project
 
-| Period | Title | Subject |
+### University Projects
+
+Selected team projects from my automotive engineering coursework.
+
+| Period | Title | My Contribution |
 |---|---|---|
-| YYYY.MM - YYYY.MM |  |  |
+| 2026 Spring | [Trailer E2E Lane Following](https://github.com/seonghyun713/Trailer-E2E-Lane-Following) · Embedded AI | Designed and 3D-printed camera/side-mirror mounts; calibrated BEV and trailer-angle estimation; analyzed slip and proposed wider turns and a CNN-GRU policy. |
+| 2026 Spring | [Rover Road Driving](https://github.com/seonghyun713/Jetson-Model-Car-Road-FSM) · Embedded AI | Prepared and reviewed training data, proposed iterative pseudo-labeling, and improved lane recovery, red-light persistence and obstacle-stop logic through integration testing. |
+| 2025.09 - 2025.12 | Engine Mount Dynamic Analysis · CAE | Built MATLAB/Simulink quarter-car and engine-vibration models; compared with teammates' COMSOL simulations to study vibration isolation and support stiffness. |
+| 2025 Fall | CLIPCASE · Techno-Management / HY-FIVE | Designed and prototyped a slide-lock earbud case for backpack straps; contributed 3D modeling/printing, demonstrations and the Lean Canvas. |
+| 2025.03 - 2025.06 | Pressure-Sensitive Electronic Piano · Microprocessor Applications | Designed circuits and Arduino Mega control software for FSR-multiplexed pressure sensing and ADSR sound envelopes. |
+
+### Public Projects & Contributions
+
+| Period | Title | My Contribution |
+|---|---|---|
+| 2026.10 | [RAW Rig](https://github.com/Choihyunseok1/RAW-Rig) | Developed a Python/Qt tool for Bayer RAW capture and sensor-noise calibration, with Spinnaker camera control and PTP capture scheduling. |
+| 2026.10 | [Sticky Notes: Alt+Tab Group](https://github.com/ramensoftware/windhawk-mods/pull/6277) | AI-assisted contribution with ChatGPT: a C++/Windhawk mod that groups Sticky Notes windows in Alt+Tab. Merged upstream on October 17, 2026. |
+| 2026.07 | [ROS2 FLIR Surround View](https://github.com/Choihyunseok1/ros2-flir-surround-view) | Developed a planar-homography BEV surround-view prototype for multiple FLIR cameras, with a calibration UI and guidebook. Python, ROS2 and OpenCV. |
+| 2026.06 | [VS Code RAW Image Preview](https://github.com/Choihyunseok1/vscode-raw-image-preview) | Developed a VS Code editor for RAW/Bayer/NumPy image inspection, channel views and exposure controls. JavaScript, VS Code API and Python. |
+| 2026.06 | [Local Whisper Desktop](https://github.com/Choihyunseok1/local-whisper-desktop) | Developed a local transcription GUI with long-file chunking and subtitle export. Python, PySide6, faster-whisper and ffmpeg. |
+
+### Other Coursework
+
+- **Mechanical design:** CATIA-based 3D-printer design coursework; Romax gear-train design and stress analysis.
+- **[Medical Humanities & Music (2025 Fall)](https://github.com/hskye79/medicalhumanitiesmusic-2025-2/blob/main/choi-hyunseok.md):** Authored and revised an analysis of Beethoven's Symphony No. 9 for a collaborative course database.
 
 ## Awards & Honors
 
