@@ -72,7 +72,6 @@ Selected team projects from my automotive engineering coursework.
 ### Other Coursework
 
 - **Mechanical design:** \[CAD\] CATIA-based 3D-printer design; \[Design Engineering\] Romax gear-train design and stress analysis.
-- **\[Medical Humanities & Music\] (2025 Fall):** Authored and revised a [Beethoven's Symphony No. 9 analysis](https://github.com/hskye79/medicalhumanitiesmusic-2025-2/blob/main/choi-hyunseok.md) for a collaborative course database.
 
 ## Awards & Honors
 
