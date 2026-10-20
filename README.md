@@ -20,6 +20,7 @@
 **Engineering Tools**  
 [![CATIA](https://img.shields.io/badge/CATIA-005386?style=flat-square&logoColor=white)](https://www.3ds.com/products/catia)
 [![COMSOL](https://img.shields.io/badge/COMSOL-368CCB?style=flat-square&logoColor=white)](https://www.comsol.com/)
+[![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-00AE42?style=flat-square&logoColor=white)](https://bambulab.com/) <sub>P1S · P2S</sub>
 
 **Tools & Environment**  
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
