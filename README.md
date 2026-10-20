@@ -53,11 +53,13 @@ Selected team projects from my automotive engineering coursework.
 
 | Period | Title | My Contribution |
 |---|---|---|
-| 2026 Spring | [Trailer E2E Lane Following](https://github.com/seonghyun713/Trailer-E2E-Lane-Following) · Embedded AI | Designed and 3D-printed camera/side-mirror mounts; calibrated BEV and trailer-angle estimation; analyzed slip and proposed wider turns and a CNN-GRU policy. |
-| 2026 Spring | [Rover Road Driving](https://github.com/seonghyun713/Jetson-Model-Car-Road-FSM) · Embedded AI | Prepared and reviewed training data, proposed iterative pseudo-labeling, and improved lane recovery, red-light persistence and obstacle-stop logic through integration testing. |
-| 2025.09 - 2025.12 | Engine Mount Dynamic Analysis · CAE | Built MATLAB/Simulink quarter-car and engine-vibration models; compared with teammates' COMSOL simulations to study vibration isolation and support stiffness. |
-| 2025 Fall | CLIPCASE · Techno-Management / HY-FIVE | Designed and prototyped a slide-lock earbud case for backpack straps; contributed 3D modeling/printing, demonstrations and the Lean Canvas. |
-| 2025.03 - 2025.06 | Pressure-Sensitive Electronic Piano · Microprocessor Applications | Designed circuits and Arduino Mega control software for FSR-multiplexed pressure sensing and ADSR sound envelopes. |
+| 2026 Spring | \[Embedded AI\] [Trailer E2E Lane Following](https://github.com/seonghyun713/Trailer-E2E-Lane-Following) | Designed and 3D-printed camera/side-mirror mounts; calibrated BEV and trailer-angle estimation; analyzed slip and proposed wider turns and a CNN-GRU policy. |
+| 2026 Spring | \[Embedded AI\] [Rover Road Driving](https://github.com/seonghyun713/Jetson-Model-Car-Road-FSM) | Prepared and reviewed training data, proposed iterative pseudo-labeling, and improved lane recovery, red-light persistence and obstacle-stop logic through integration testing. |
+| 2025.09 - 2025.12 | \[CAE\] Engine Mount Dynamic Analysis | Built MATLAB/Simulink quarter-car and engine-vibration models; compared with teammates' COMSOL simulations to study vibration isolation and support stiffness. |
+| 2025 Fall | \[Techno-Management\] CLIPCASE / HY-FIVE | Designed and prototyped a slide-lock earbud case for backpack straps; contributed 3D modeling/printing, demonstrations and the Lean Canvas. |
+| 2025.03 - 2025.06 | \[Microprocessor Applications\] Pressure-Sensitive Electronic Piano | Designed circuits and Arduino Mega control software for FSR-multiplexed pressure sensing and ADSR sound envelopes. |
+
+<sub>Text in [brackets] denotes the course name.</sub>
 
 ### Public Projects & Contributions
 
@@ -71,8 +73,8 @@ Selected team projects from my automotive engineering coursework.
 
 ### Other Coursework
 
-- **Mechanical design:** CATIA-based 3D-printer design coursework; Romax gear-train design and stress analysis.
-- **[Medical Humanities & Music (2025 Fall)](https://github.com/hskye79/medicalhumanitiesmusic-2025-2/blob/main/choi-hyunseok.md):** Authored and revised an analysis of Beethoven's Symphony No. 9 for a collaborative course database.
+- **Mechanical design:** \[CAD\] CATIA-based 3D-printer design; \[Design Engineering\] Romax gear-train design and stress analysis.
+- **\[Medical Humanities & Music\] (2025 Fall):** Authored and revised a [Beethoven's Symphony No. 9 analysis](https://github.com/hskye79/medicalhumanitiesmusic-2025-2/blob/main/choi-hyunseok.md) for a collaborative course database.
 
 ## Awards & Honors
 
