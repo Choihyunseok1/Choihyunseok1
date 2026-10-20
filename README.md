@@ -80,4 +80,4 @@ Selected team projects from my automotive engineering coursework.
 
 | Period | Title | Subject |
 |---|---|---|
-| YYYY.MM |  |  |
+| 2025.12.19 | Grand Prize (대상) | 2025 Fall Techno-Management CEO Camp · Hanyang University College of Engineering · HY-FIVE team / CLIPCASE (earbud clip case) |
